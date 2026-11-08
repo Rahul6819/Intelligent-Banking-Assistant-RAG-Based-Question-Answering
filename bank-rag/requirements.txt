@@ -1,0 +1,10 @@
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+rank-bm25>=0.2.2
+numpy
+pandas
+pypdf
+streamlit
+anthropic      # optional: LLM_PROVIDER=anthropic
+openai         # optional: LLM_PROVIDER=openai
+requests       # optional: LLM_PROVIDER=ollama

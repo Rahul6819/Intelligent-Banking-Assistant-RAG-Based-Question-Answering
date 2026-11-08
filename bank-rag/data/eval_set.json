@@ -1,0 +1,20 @@
+[
+  {"q": "What is the minimum monthly income for a personal loan?", "doc": "personal_loan_policy.md", "fact": "minimum monthly income of Rs 25,000"},
+  {"q": "What foreclosure charge applies in the first 12 months?", "doc": "personal_loan_policy.md", "fact": "4 percent of the outstanding principal"},
+  {"q": "How much is the EMI bounce charge?", "doc": "personal_loan_policy.md", "fact": "Rs 500 plus GST applies for every dishonoured"},
+  {"q": "What processing fee is charged on a personal loan?", "doc": "personal_loan_policy.md", "fact": "up to 2 percent of the loan amount"},
+  {"q": "What is the maximum tenure I can choose for a loan?", "doc": "personal_loan_policy.md", "fact": "between 12 and 60 months"},
+  {"q": "Which documents are needed to apply for a personal loan?", "doc": "personal_loan_policy.md", "fact": "last 3 months of salary slips"},
+  {"q": "At what annual spend is the Classic card fee waived?", "doc": "credit_card_terms.md", "fact": "waived if annual spends exceed Rs 1.2 lakh"},
+  {"q": "What is the fee for withdrawing cash on my credit card?", "doc": "credit_card_terms.md", "fact": "2.5 percent of the amount withdrawn"},
+  {"q": "How long is the interest free period on the card?", "doc": "credit_card_terms.md", "fact": "up to 48 days"},
+  {"q": "Do my reward points expire?", "doc": "credit_card_terms.md", "fact": "expire 24 months"},
+  {"q": "I see a fraud transaction on my card. When do I have zero liability?", "doc": "credit_card_terms.md", "fact": "within 3 working days"},
+  {"q": "What is the late fee if my card outstanding is above Rs 5,000?", "doc": "credit_card_terms.md", "fact": "Rs 750 for outstanding above Rs 5,000"},
+  {"q": "What is the daily UPI limit?", "doc": "savings_account_faq.md", "fact": "Rs 1 lakh per customer"},
+  {"q": "What average balance must I keep in a metro savings account?", "doc": "savings_account_faq.md", "fact": "average monthly balance of Rs 10,000"},
+  {"q": "How many days does the bank take to resolve a complaint?", "doc": "savings_account_faq.md", "fact": "resolves it within 30 days"},
+  {"q": "How often must a low risk customer update KYC?", "doc": "savings_account_faq.md", "fact": "10 years for low risk"},
+  {"q": "Is there a fee to close my account within the first year?", "doc": "savings_account_faq.md", "fact": "closure fee of Rs 500"},
+  {"q": "What interest do I get on savings above 1 lakh?", "doc": "savings_account_faq.md", "fact": "4 percent per annum on balances above Rs 1 lakh"}
+]
